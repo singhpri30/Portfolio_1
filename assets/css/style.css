@@ -769,6 +769,10 @@ section {
   font-weight: 400;
   margin-bottom: 20px;
 }
+.portfolio-details .portfolio-description h4 {
+  font-weight: 400;
+  margin-bottom: 20px;
+}
 
 .portfolio-details .portfolio-description p {
   padding: 0;
