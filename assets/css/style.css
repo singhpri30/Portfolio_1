@@ -19,6 +19,9 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Raleway", sans-serif;
 }
 
+.font-size{
+  font-size: 40px;
+}
 .font-25px {
   font-size: 40px;
   color:red;
@@ -27,6 +30,11 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 40px;
   color:rgb(34, 209, 240);
 }
+.font-black {
+  font-size: 40px;
+  color:rgb(3, 3, 3);
+}
+
 
 
 /*--------------------------------------------------------------
