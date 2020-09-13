@@ -36,6 +36,14 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 40px;
   color:rgb(3, 3, 3);
 }
+.card-color{
+  background: linear-gradient(to right, #248ee6, #789c51);
+  font-weight: bolder;
+}
+.card-color1{
+  background: linear-gradient(to right, #599fd9, #c2e59c);
+  font-weight: bolder;
+}
 
 
 
